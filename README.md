@@ -1,0 +1,2 @@
+# solrplugin
+Testing
