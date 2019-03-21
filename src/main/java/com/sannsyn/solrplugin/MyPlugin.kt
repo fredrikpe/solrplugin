@@ -1,4 +1,4 @@
-package com.sannsyn
+package com.sannsyn.solrplugin
 
 import org.apache.solr.handler.RequestHandlerBase
 import org.apache.solr.request.SolrQueryRequest
